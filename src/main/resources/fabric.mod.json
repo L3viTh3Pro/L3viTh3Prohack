@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "chunkscout",
+  "version": "${version}",
+  "name": "ChunkScout",
+  "description": "Client-side freecam and storage/chunk visualizer for Fabric 1.21.11",
+  "authors": ["ChunkScout"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.chunkscout.ChunkScoutClient"]
+  },
+  "mixins": ["chunkscout.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "fabric-api": "*",
+    "minecraft": "1.21.11",
+    "java": ">=21"
+  }
+}

@@ -1,0 +1,10 @@
+WINDOWS BUILD
+
+1. Telepits Java 21-et.
+2. Nyisd meg ezt a mappat.
+3. Dupla kattintas a build.bat fajlra.
+4. A build.bat automatikusan letolti a Gradle 9.2.1-et, ha nincs telepitve.
+5. Az elso buildnel a Fabric/Minecraft fuggosegek letoltese miatt tobb perc is lehet.
+6. Sikeres build utan a mod a build\\libs mappaban lesz.
+
+Nem kell kulon Gradle-t telepitened, es nincs szukseg Gradle Wrapperre.

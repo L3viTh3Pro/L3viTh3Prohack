@@ -1,0 +1,7 @@
+ChunkScout 1.21.11
+Prepared project: 2026-10-02
+Minecraft: 1.21.11
+Java: 21
+Fabric Loader: 0.18.1
+Fabric API: 0.141.3+1.21.11
+Fabric Loom: 1.14.5

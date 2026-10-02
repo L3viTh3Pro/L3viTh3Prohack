@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.example.chunkscout.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["CameraMixin", "MouseMixin"],
+  "injectors": {"defaultRequire": 1}
+}
